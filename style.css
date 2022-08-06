@@ -1,3 +1,7 @@
-h1, h2 {
-  font-family: Lato;
+h1,
+h2 {
+  font-family: Helvetica;
+  background: -webkit-linear-gradient(rgb(7, 226, 226), rgb(255, 0, 0));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
 }
